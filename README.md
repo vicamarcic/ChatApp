@@ -19,7 +19,7 @@
     # choose one package manager
     npm install    # or: yarn / pnpm install
  
- 3 Install Expo Go application  
+     3 Install Expo Go application  
     
  4) Run (development)
     npx expo start
