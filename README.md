@@ -16,10 +16,10 @@
     cd ChatApp
 
  2) Install dependencies
-    # choose one package manager
+    # Choose one package manager
     npm install    # or: yarn / pnpm install
- 
-  3 Install Expo Go application  
+    
+ 3)Install Expo go application
     
  4) Run (development)
     npx expo start
